@@ -10,4 +10,3 @@
 - [[CONNECT vs PI Integrator - Choosing the Right Tool for Your Industrial Data Needs\|CONNECT vs PI Integrator - Choosing the Right Tool for Your Industrial Data Needs]]
 - [[AVEVA PI System vs Cloud Historian - Why PI Excels in Industrial Environments\|AVEVA PI System vs Cloud Historian - Why PI Excels in Industrial Environments]]
 - [[Unlocking the Power of the Asset Framework\|Unlocking the Power of the Asset Framework]]
-- 
