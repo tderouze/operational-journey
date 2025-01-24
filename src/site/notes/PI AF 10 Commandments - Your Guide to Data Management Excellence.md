@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pi-af-10-commandments-your-guide-to-data-management-excellence/"}
+{"dg-publish":true,"permalink":"/pi-af-10-commandments-your-guide-to-data-management-excellence/","tags":["PISystem","AssetFramework"]}
 ---
 
 In the ever-evolving world of industrial data management, the AVEVA PI System stands as a beacon of innovation. At its core lies the powerful PI Asset Framework (AF), a tool that's revolutionizing how we organize and analyze industrial data. But with great power comes great responsibility - and a bit of a learning curve. That's why we're here to guide you through the Ten Commandments of PI Asset Framework Best Practices.
@@ -31,6 +31,7 @@ Categories are your classification superpower. They help organize your assets, m
 
 PI Builder is a powerful ally for managing your assets efficiently. It simplifies bulk operations, like creating or updating elements, templates, and attributes. Mastering PI Builder will save you time and energy[1].
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ih73YO2nilA?si=4AvokR8tnGh4cJXP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ### 6. Defaults Are Not Your Friend
 
 While default settings are tempting, they may not suit your specific needs. Tailor your settings to match your requirements. This ensures your assets behave exactly as you intend, rather than relying on generic defaults[1].
@@ -51,6 +52,8 @@ While starting from the bottom and building up is common, don't overlook the top
 
 Smart Elements are assets that adapt and evolve based on changing conditions. Embrace dynamic behaviors, calculations, and analyses within your elements. Building smart elements enhances your system's agility and responsiveness[1].
 
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/Ih73YO2nilA?si=4AvokR8tnGh4cJXP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
 ## The Future of Asset Management
 
 As of January 2025, the Asset Framework has become an indispensable tool for PI System operators. Its ability to organize, contextualize, and analyze data from multiple sources, including PI Data Archives and external databases, has revolutionized how industries manage their assets[1][4].
