@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva-pi-system/unlocking-the-power-of-the-asset-framework/"}
+{"dg-publish":true,"permalink":"/aveva-pi-system/unlocking-the-power-of-the-asset-framework/","tags":["AssetFramework","PISystem","OperationalData"]}
 ---
 
 In today's data-driven industrial landscape, the Asset Framework (AF) stands out as a game-changer for PI System operators. Let's dive into what AF is, how it works, and why it's crucial for maximizing your PI System's potential.

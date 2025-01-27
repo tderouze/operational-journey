@@ -51,13 +51,6 @@ Gather feedback from users and stakeholders, and use this feedback to continuous
 
 ---
 By following these guidelines, you can ensure a successful large-scale deployment of AVEVA PI System, enabling your organization to harness the full power of real-time operational data for improved decision-making and efficiency.
-# AVEVA's Customers Presentation on this topic
-```dataview
-TABLE elink(file.frontmatter.URL, file.frontmatter.Year + " - " + file.frontmatter.Company) AS Lien, elink(file.frontmatter.PDF, "PDF") AS PDF
-FROM "AVEVA/Customer Stories"
-SORT file.frontmatter.Year + " - " + file.frontmatter.Company
-WHERE contains(file.frontmatter.Keywords, "Data Journey")
-```
 
 ---
 **Citations:**

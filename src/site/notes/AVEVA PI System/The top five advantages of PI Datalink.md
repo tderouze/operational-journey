@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/aveva-pi-system/the-top-five-advantages-of-pi-datalink/"}
+{"dg-publish":true,"permalink":"/aveva-pi-system/the-top-five-advantages-of-pi-datalink/","tags":["PIDataLink","PISystem"]}
 ---
+
 
 
 Let's jump together into the top five advantages of PI Datalink.
@@ -15,8 +16,7 @@ And here's the icing on the cake: PI Datalink reduces the need for raw data in y
 
 So there you have it, the incredible advantages of PI Datalink, your Excel superpower for harnessing the full potential of your PI system data. Stay tuned for more insights, and don't forget to subscribe for the latest updates.
 
-![](https://www.youtube.com/watch?v=l8Cpq6hN_ag)
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/l8Cpq6hN_ag?si=YI0I0_LBNDJbGTlG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
 
-#AVEVA #PIDatalink #YTVideo
 
 
