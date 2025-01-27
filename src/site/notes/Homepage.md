@@ -3,6 +3,7 @@
 ---
 
 <u>**Who am I :**</u>
+From Elicitator to AI Prompt Architec, via Ultracrepidarianist, I am just a normal Presales Engineer who like to speak about Tech and Operations. If it grabbed your attention, check my linked profile for more details:
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <div class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="tderouze" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://fr.linkedin.com/in/tderouze?trk=profile-badge">Thibaud de Rouzé</a></div>
 
