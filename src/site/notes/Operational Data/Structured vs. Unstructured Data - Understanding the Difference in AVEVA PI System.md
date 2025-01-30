@@ -9,7 +9,7 @@ In the world of industrial data management, understanding the difference between
 ## Structured Data
 Structured data follows a predefined format and organization, making it easily readable and processable by machines[1]. In the context of AVEVA PI System, structured data is typically stored in the PI Data Archive and includes:
 - Time-stamped process variables (PI Points)[2]
-- Asset attributes in PI Asset Framework (AF)[2]
+- Asset attributes in [[AVEVA PI System/Unlocking the Power of the Asset Framework\|PI Asset Framework]] (AF)[2]
 - Predefined data types such as Boolean, Byte, and DateTime[4]
 
 Structured data in PI System is organized in a tabular format, with each column representing an attribute (e.g., time, temperature, pressure) and each row containing a single record with associated values[1][2].
@@ -22,7 +22,7 @@ Unstructured data lacks a predefined data model or schema, making it more comple
 - Images and videos of plant operations
 - Audio recordings from control rooms
 
-While PI System primarily deals with structured data, it can also handle some forms of unstructured data through its Asset Framework (AF) and PI Vision capabilities[2].
+While PI System primarily deals with structured data, it can also handle some forms of unstructured data through its [[AVEVA PI System/Unlocking the Power of the Asset Framework\|Asset Framework (AF)]] and PI Vision capabilities[2].
 
 ## Key Differences
 
@@ -36,7 +36,7 @@ While PI System primarily deals with structured data, it can also handle some fo
 
 ## Leveraging Both Data Types in AVEVA PI System
 To maximize the value of both structured and unstructured data:
-1. Use PI Asset Framework to create a comprehensive asset model that incorporates both structured (PI Points) and unstructured (document links, notes) data[2].
+1. Use [[AVEVA PI System/Unlocking the Power of the Asset Framework\|PI Asset Framework]] to create a comprehensive asset model that incorporates both structured (PI Points) and unstructured (document links, notes) data[2].
 2. Utilize PI Vision to create dashboards that combine structured data visualizations with links to relevant unstructured data sources[2].
 3. Implement data contextualization strategies to add structure to unstructured data, making it more searchable and analyzable within the PI System ecosystem.
 4. Consider integrating advanced analytics tools that can process both structured and unstructured data to gain deeper insights from your industrial data.

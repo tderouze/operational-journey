@@ -2,11 +2,11 @@
 {"dg-publish":true,"permalink":"/aveva-pi-system/pi-af-10-commandments-your-guide-to-data-management-excellence/","tags":["PISystem","AssetFramework"]}
 ---
 
-In the ever-evolving world of industrial data management, the AVEVA PI System stands as a beacon of innovation. At its core lies the powerful PI Asset Framework (AF), a tool that's revolutionizing how we organize and analyze industrial data. But with great power comes great responsibility - and a bit of a learning curve. That's why we're here to guide you through the Ten Commandments of PI Asset Framework Best Practices.
+In the ever-evolving world of industrial data management, the AVEVA PI System stands as a beacon of innovation. At its core lies the powerful PI Asset Framework (AF), a tool that's revolutionizing how we organize and analyze industrial data. But with great power comes great responsibility - and a bit of a learning curve. That's why we're here to guide you through the Ten Commandments of [[AVEVA PI System/Unlocking the Power of the Asset Framework\|PI Asset Framework]]  Best Practices.
 
 ## The Power of PI Asset Framework
 
-PI Asset Framework isn't just another data management tool. It's a game-changer that allows you to model physical or logical objects in a way that best suits your operational needs[7]. But like any powerful tool, its true potential is unlocked when you know how to wield it effectively.
+[[AVEVA PI System/Unlocking the Power of the Asset Framework\|PI Asset Framework]] isn't just another data management tool. It's a game-changer that allows you to model physical or logical objects in a way that best suits your operational needs[7]. But like any powerful tool, its true potential is unlocked when you know how to wield it effectively.
 
 ![](https://i.imgur.com/H8ofGoA.png)
 ## The Ten Commandments
@@ -21,7 +21,7 @@ Consistency is key when building your hierarchy. Adhere to naming conventions an
 
 ### 3. Different Views Make Life Easier
 
-PI Asset Framework offers various ways to view your data. Understanding how to use element views, attribute views, and asset-based views effectively allows you to see your data from multiple angles, improving decision-making and analysis[1].
+[[AVEVA PI System/Unlocking the Power of the Asset Framework\|PI Asset Framework]] offers various ways to view your data. Understanding how to use element views, attribute views, and asset-based views effectively allows you to see your data from multiple angles, improving decision-making and analysis[1].
 
 ### 4. Categories Shalt Be Used Everywhere
 
@@ -36,9 +36,9 @@ PI Builder is a powerful ally for managing your assets efficiently. It simplifie
 
 While default settings are tempting, they may not suit your specific needs. Tailor your settings to match your requirements. This ensures your assets behave exactly as you intend, rather than relying on generic defaults[1].
 
-### 7. String Builder and Event Frames Are More Friends
+### 7. String Builder and [[AVEVA PI System/Unlocking the Power of Event Frames in AVEVA PI System\|Event Frames]] Are More Friends
 
-String Builder and Event Frames are your allies for advanced data manipulation and contextualization. Learn to use them to extract valuable insights from your data, enhancing your asset's capabilities[1].
+String Builder and [[AVEVA PI System/Unlocking the Power of Event Frames in AVEVA PI System\|Event Frames]] are your allies for advanced data manipulation and contextualization. Learn to use them to extract valuable insights from your data, enhancing your asset's capabilities[1].
 
 ### 8. Thou Shalt Use Units of Measure
 
@@ -58,7 +58,7 @@ Smart Elements are assets that adapt and evolve based on changing conditions. Em
 
 As of January 2025, the Asset Framework has become an indispensable tool for PI System operators. Its ability to organize, contextualize, and analyze data from multiple sources, including PI Data Archives and external databases, has revolutionized how industries manage their assets[1][4].
 
-Remember, while the initial setup might seem daunting, the long-term benefits of a well-structured AF far outweigh the learning curve. It's not just about organizing data; it's about unlocking the full potential of your PI System and driving your operations into the future.
+Remember, while the initial setup might seem daunting, the long-term benefits of a [[Operational Data/Structured vs. Unstructured Data - Understanding the Difference in AVEVA PI System\|well-structured]] AF far outweigh the learning curve. It's not just about organizing data; it's about unlocking the full potential of your PI System and driving your operations into the future.
 
 So, are you ready to transform your data management and take your PI System to the next level? The power of Asset Framework is at your fingertips – it's time to use it!
 

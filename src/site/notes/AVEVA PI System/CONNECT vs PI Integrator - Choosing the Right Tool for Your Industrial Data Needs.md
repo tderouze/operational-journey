@@ -21,7 +21,7 @@ PI Integrator for Business Analytics, on the other hand, is a specialized tool f
 
 - Seamless integration with BI tools like Tableau, Tibco Spotfire, and Microsoft Power BI
 - Data cleansing and dimensional modeling
-- Elimination of the need for programming or SQL expertise
+- Elimination of the need for programming or [[Operational Data/Why Traditional RDBMS Falls Short for Time-Series Data\|SQL]] expertise
 - Complete data lifecycle management, including access, updates, and provenance
 
 ## Key Differences

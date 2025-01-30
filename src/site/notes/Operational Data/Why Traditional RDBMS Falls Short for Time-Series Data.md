@@ -30,7 +30,7 @@ Unlike purpose-built time-series databases, traditional RDBMS lack built-in feat
 
 Relational databases typically require ongoing manual maintenance when dealing with time-series data[8]. This includes tasks such as data retention management, index optimization, and performance tuning. The increased complexity often necessitates dedicated personnel, adding to the overall cost and effort of managing time-series data in a traditional RDBMS[8].
 
-In conclusion, while traditional relational databases excel in managing structured data with complex relationships, they are not optimized for the unique challenges presented by time-series data. As industries increasingly rely on time-stamped information for critical insights, purpose-built time-series databases or hybrid solutions that can efficiently handle both relational and time-series data are becoming essential for organizations looking to harness the full potential of their data.
+In conclusion, while traditional relational databases excel in managing [[Operational Data/Structured vs. Unstructured Data - Understanding the Difference in AVEVA PI System\|structured]] data with complex relationships, they are not optimized for the unique challenges presented by time-series data. As industries increasingly rely on time-stamped information for critical insights, purpose-built time-series databases or hybrid solutions that can efficiently handle both relational and time-series data are becoming essential for organizations looking to harness the full potential of their data.
 
 Citations:
 [1] https://www.geeksforgeeks.org/time-series-database-vs-relational-database/

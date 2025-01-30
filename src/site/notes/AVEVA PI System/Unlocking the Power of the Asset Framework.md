@@ -35,7 +35,7 @@ Implementing AF offers a treasure trove of benefits:
 
 As of January 2025, the Asset Framework has become an indispensable tool for PI System operators. Its ability to organize, contextualize, and analyze data from multiple sources, including PI Data Archives and external databases, has revolutionized how industries manage their assets[1][5].
 
-Remember, while the initial setup might seem daunting, the long-term benefits of a well-structured AF far outweigh the learning curve. It's not just about organizing data; it's about unlocking the full potential of your PI System and driving your operations into the future.
+Remember, while the initial setup might seem daunting, the long-term benefits of a [[Operational Data/Structured vs. Unstructured Data - Understanding the Difference in AVEVA PI System\|well-structured]] AF far outweigh the learning curve. It's not just about organizing data; it's about unlocking the full potential of your PI System and driving your operations into the future.
 
 So, are you ready to transform your data management and take your PI System to the next level? The power of Asset Framework is at your fingertips – it's time to use it!
 

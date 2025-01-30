@@ -9,41 +9,30 @@ In today's fast-paced industrial landscape, data management and analysis are cru
 ## Enhanced Features for Comprehensive Data Capture
 
 Event Frames bring a new level of flexibility to data management:
-
 - **Concurrent Events**: Unlike traditional systems, Event Frames allow multiple events to occur simultaneously on a single unit. This capability is essential for complex industrial processes where various activities may overlap[7].
-
 - **Industry Agnostic**: Whether you're in pharmaceuticals, power utilities, or mining, Event Frames adapt to your specific needs, making it a versatile tool across different sectors[1].
-
 - **Tighter Integration**: Event Frames seamlessly integrate with other AVEVA PI System components, creating a more cohesive data ecosystem.
 
 ## Data Integration for Holistic Insights
 
 Event Frames excel at bringing disparate data together:
 
-- **Unified Data Storage**: Store various types of data - batch, downtime, and excursion - simultaneously against a unit, providing a comprehensive view of operations[1].
-
+- **Unified Data Storage**: Store various types of data - [[AVEVA PI System/Revolutionizing Batch Management with AVEVA PI System\|batch]], downtime, and excursion - simultaneously against a unit, providing a comprehensive view of operations[1].
 - **Centralized Reporting**: With all event data in one place, generating reports becomes more straightforward and insightful.
-
 - **Integrated Event View**: Gain a holistic perspective of your operations by viewing different event types in a single, integrated interface.
-
 - **Advanced Analysis**: Compare and analyze events across different timeframes and units, uncovering patterns and opportunities for optimization.
 
 ## Ease of Use for Improved Efficiency
 
 Event Frames are designed with user-friendliness in mind:
-
 - **Flexible Templates**: Event Frame templates offer increased flexibility, allowing you to standardize event definitions across your organization[8].
-
 - **Accessibility**: New data access technologies make it easier than ever to retrieve and analyze event data, empowering users at all levels of technical expertise.
 
 ## Future-Proofing Your Data Management
 
 Adopting Event Frames positions your organization for future success:
-
 - **Modern Technology**: Event Frames represent the cutting edge of PI System technology, ensuring you're using the most advanced tools available[1].
-
 - **Continuous Improvement**: AVEVA is constantly adding new capabilities and functionality to Event Frames, keeping your system at the forefront of innovation.
-
 - **Regular Updates**: With frequent releases, you can be confident that your Event Frame system will evolve to meet changing industry needs.
 
 ## Real-World Impact
