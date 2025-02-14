@@ -11,16 +11,27 @@ From Elicitator to AI Prompt Architec, via Ultracrepidarianist, I am just a norm
 
 
 <u>Top topics Discussed:</u>
-#PISystem #TechComparison #AssetFramework #Sustainability 
+- (8) #PISystem
+- (5) #TechComparison
+- (4) #AssetFramework
+- (4) #TechInsider
+- (2) #EventFrames
 
+{ .block-language-dataview}
 
 ---
 <u>**Last Articles :**</u>
-- [[AVEVA PI System/PI AF 10 Commandments - Your Guide to Data Management Excellence\|PI AF 10 Commandments - Your Guide to Data Management Excellence]]
-- [[Operational Data/Structured vs. Unstructured Data - Understanding the Difference in AVEVA PI System\|Structured vs. Unstructured Data - Understanding the Difference in AVEVA PI System]]
-- [[AVEVA PI System/Port Operations with AVEVA PI System\|Port Operations with AVEVA PI System]]
-- [[AVEVA PI System/Deploying AVEVA PI System at Scale - A Comprehensive Guide\|Deploying AVEVA PI System at Scale - A Comprehensive Guide]]
-- [[AVEVA PI System/CONNECT vs PI Integrator - Choosing the Right Tool for Your Industrial Data Needs\|CONNECT vs PI Integrator - Choosing the Right Tool for Your Industrial Data Needs]]
-- [[AVEVA PI System/AVEVA PI System vs Cloud Historian - Why PI Excels in Industrial Environments\|AVEVA PI System vs Cloud Historian - Why PI Excels in Industrial Environments]]
-- [[AVEVA PI System/Unlocking the Power of the Asset Framework\|Unlocking the Power of the Asset Framework]]
-- [[Operational Data/The difference between Enterprise Resource Planning (ERP), Manufacturing Execution System (MES), and Historians\|The difference between Enterprise Resource Planning (ERP), Manufacturing Execution System (MES), and Historians]]
+- 2025-02-05 - [[Operational Data/Evolution of Maintenance Stragegies\|Evolution of Maintenance Stragegies]]
+- 2025-01-30 - [[Operational Data/Navigating the Automation Landscape\|Navigating the Automation Landscape]]
+- 2025-01-27 - [[AVEVA PI System/Revolutionizing Batch Management with AVEVA PI System\|Revolutionizing Batch Management with AVEVA PI System]]
+- 2025-01-27 - [[AVEVA PI System/Unlocking the Power of Event Frames in AVEVA PI System\|Unlocking the Power of Event Frames in AVEVA PI System]]
+- 2025-01-27 - [[Operational Data/Kaggle vs Google Colab - Choosing Your Ideal Data Science Playground\|Kaggle vs Google Colab - Choosing Your Ideal Data Science Playground]]
+- 2025-01-24 - [[AVEVA PI System/CONNECT vs PI Integrator - Choosing the Right Tool for Your Industrial Data Needs\|CONNECT vs PI Integrator - Choosing the Right Tool for Your Industrial Data Needs]]
+- 2025-01-24 - [[AVEVA PI System/AVEVA PI System vs Cloud Historian - Why PI Excels in Industrial Environments\|AVEVA PI System vs Cloud Historian - Why PI Excels in Industrial Environments]]
+- 2025-01-24 - [[AVEVA PI System/Deploying AVEVA PI System at Scale - A Comprehensive Guide\|Deploying AVEVA PI System at Scale - A Comprehensive Guide]]
+- 2025-01-24 - [[AVEVA PI System/The top five advantages of PI Datalink\|The top five advantages of PI Datalink]]
+- 2025-01-24 - [[AVEVA PI System/Port Operations with AVEVA PI System\|Port Operations with AVEVA PI System]]
+
+{ .block-language-dataview}
+
+

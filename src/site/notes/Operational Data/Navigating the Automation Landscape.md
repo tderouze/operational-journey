@@ -38,6 +38,8 @@ n8n has emerged as a powerful alternative, especially for tech-savvy users and o
 
 While n8n offers great flexibility, it does require more technical expertise to fully leverage its capabilities[7].
 
+![](https://i.imgur.com/eNAfQvb.png)
+
 ## Choosing the Right Tool for Your Journey
 
 When selecting an automation platform for your operational data journey, consider these factors:

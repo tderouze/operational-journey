@@ -32,6 +32,7 @@ Categories are your classification superpower. They help organize your assets, m
 PI Builder is a powerful ally for managing your assets efficiently. It simplifies bulk operations, like creating or updating elements, templates, and attributes. Mastering PI Builder will save you time and energy[1].
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ih73YO2nilA?si=4AvokR8tnGh4cJXP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ### 6. Defaults Are Not Your Friend
 
 While default settings are tempting, they may not suit your specific needs. Tailor your settings to match your requirements. This ensures your assets behave exactly as you intend, rather than relying on generic defaults[1].
@@ -54,6 +55,7 @@ Smart Elements are assets that adapt and evolve based on changing conditions. Em
 
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/Ih73YO2nilA?si=4AvokR8tnGh4cJXP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
+
 ## The Future of Asset Management
 
 As of January 2025, the Asset Framework has become an indispensable tool for PI System operators. Its ability to organize, contextualize, and analyze data from multiple sources, including PI Data Archives and external databases, has revolutionized how industries manage their assets[1][4].
