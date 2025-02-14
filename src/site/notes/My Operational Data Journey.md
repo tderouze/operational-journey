@@ -21,6 +21,7 @@ From Elicitator to AI Prompt Architec, via Ultracrepidarianist, I am just a norm
 
 ---
 <u>**Last Articles :**</u>
+- 2025-02-14 - [[Operational Data/Revolutionizing Operations - The Power of Real-Time Data Platforms\|Revolutionizing Operations - The Power of Real-Time Data Platforms]]
 - 2025-02-05 - [[Operational Data/Evolution of Maintenance Stragegies\|Evolution of Maintenance Stragegies]]
 - 2025-01-30 - [[Operational Data/Navigating the Automation Landscape\|Navigating the Automation Landscape]]
 - 2025-01-27 - [[AVEVA PI System/Revolutionizing Batch Management with AVEVA PI System\|Revolutionizing Batch Management with AVEVA PI System]]
@@ -30,7 +31,6 @@ From Elicitator to AI Prompt Architec, via Ultracrepidarianist, I am just a norm
 - 2025-01-24 - [[AVEVA PI System/AVEVA PI System vs Cloud Historian - Why PI Excels in Industrial Environments\|AVEVA PI System vs Cloud Historian - Why PI Excels in Industrial Environments]]
 - 2025-01-24 - [[AVEVA PI System/Deploying AVEVA PI System at Scale - A Comprehensive Guide\|Deploying AVEVA PI System at Scale - A Comprehensive Guide]]
 - 2025-01-24 - [[AVEVA PI System/The top five advantages of PI Datalink\|The top five advantages of PI Datalink]]
-- 2025-01-24 - [[AVEVA PI System/Port Operations with AVEVA PI System\|Port Operations with AVEVA PI System]]
 
 { .block-language-dataview}
 
