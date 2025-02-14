@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva-pi-system/deploying-aveva-pi-system-at-scale-a-comprehensive-guide/","tags":["PISystem"]}
+{"dg-publish":true,"permalink":"/aveva-pi-system/deploying-aveva-pi-system-at-scale-a-comprehensive-guide/","tags":["PISystem","Architecture","OperationalData"]}
 ---
 
 When it comes to implementing AVEVA PI System on a large scale, careful planning and execution are crucial. Here's a comprehensive guide to help you navigate the process effectively:
