@@ -1,17 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/unlock-maritime-efficiency-and-sustainability-with-aveva-pi-system/"}
+{"dg-publish":true,"permalink":"/unlock-maritime-efficiency-and-sustainability-with-aveva-pi-system/","tags":["PISystem","Sustainability"]}
 ---
 
-The AVEVA PI System offers a wide array of applications for the maritime industry, enhancing vessel performance, ensuring safety, and promoting sustainable operations. Here are some potential use cases:
+The AVEVA PI System offers a wide array of applications for the maritime industry, enhancing vessel performance, ensuring safety, and promoting [[Operational Data/The ESG Reporting Maturity Journey - From Compliance to Collaboration\|sustainable operations]]. Here are some potential use cases:
 
 ![](https://i.imgur.com/GLmTjhU.png)
 
 - **Fleet Management and Operational Excellence**: The PI System facilitates the central management of fleet operations by providing a unified view of vessel-specific performance and status. This leads to improved decision-making, traceability in operations, safety, and overall efficiency.
-- **Real-Time Data Collection and Analysis**: By implementing the AVEVA PI System, you enable real-time data collection and analysis, which is particularly useful when monitoring hydroelectric power plants or other facilities from a remote location.
+- **Real-Time Data Collection and Analysis**: By implementing the AVEVA PI System, you enable [[Operational Data/Why Traditional RDBMS Falls Short for Time-Series Data\|real-time data]] collection and analysis, which is particularly useful when monitoring hydroelectric power plants or other facilities from a remote location.
 - **Energy Efficiency and Fuel Optimization**: The PI System helps monitor energy usage and identify areas for improvement, which leads to reduced costs and environmental impact.... For example, CSL Group achieved fuel savings of approximately 3-5% per vessel per year by deploying the AVEVA PI System.
-- **Condition-Based Maintenance**: The PI System serves as a foundation for condition-based maintenance, which helps improve uptime, extend equipment life, and reduce unplanned downtime....
+- **Condition-Based Maintenance**: The PI System serves as a foundation for [[Operational Data/Evolution of Maintenance Stragegies\|condition-based maintenance]], which helps improve uptime, extend equipment life, and reduce unplanned downtime....
 - **Predictive Maintenance**: The AVEVA PI System, combined with predictive analytics, enables early detection of events and shortened algorithm development, which supports predictive maintenance strategies.... Integrating the PI System with a predictive analytics system can lead to cost savings and increased operational efficiency.
-- **Compliance and Regulatory Reporting**: The PI System assists with meeting sustainability targets and complying with environmental regulations. It also automates the generation of compliance reports with high-quality information.
+- **Compliance and Regulatory Reporting**: The PI System assists with meeting sustainability targets and complying with [[Operational Data/The ESG Reporting Maturity Journey - From Compliance to Collaboration\|environmental regulations]]. It also automates the generation of compliance reports with high-quality information.
 - **Digital Twin Implementation**: The AVEVA PI System is useful for creating digital twins of devices and systems, integrating various information sources into a single platform.
 - **Remote Monitoring and Support**: The PI System enables remote monitoring of assets and provides real-time visibility into events, which reduces fleet downtime as well as repair and service costs.
 - **Training and Simulation**: The PI System, when integrated with a training platform such as ShipView, helps crews learn how to perform maintenance and repairs more quickly and accurately.
