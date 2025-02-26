@@ -11,7 +11,7 @@ From Elicitator to AI Prompt Architec, via Ultracrepidarianist, I am just a norm
 
 
 <u>Top topics Discussed:</u>
-- (9) #PISystem
+- (10) #PISystem
 - (5) #OperationalData
 - (5) #TechComparison
 - (4) #AssetFramework
@@ -21,6 +21,7 @@ From Elicitator to AI Prompt Architec, via Ultracrepidarianist, I am just a norm
 
 ---
 <u>**Last Articles :**</u>
+- 2025-02-26 - [[AVEVA PI System/Unlock Maritime Efficiency and Sustainability with AVEVA PI System\|Unlock Maritime Efficiency and Sustainability with AVEVA PI System]]
 - 2025-02-14 - [[AVEVA PI System/Data Diode Architecture for AVEVA PI System\|Data Diode Architecture for AVEVA PI System]]
 - 2025-02-14 - [[Operational Data/Unlocking the Power of Real-Time Data Operation Platforms\|Unlocking the Power of Real-Time Data Operation Platforms]]
 - 2025-02-05 - [[Operational Data/Evolution of Maintenance Stragegies\|Evolution of Maintenance Stragegies]]
@@ -30,7 +31,6 @@ From Elicitator to AI Prompt Architec, via Ultracrepidarianist, I am just a norm
 - 2025-01-27 - [[Operational Data/Kaggle vs Google Colab - Choosing Your Ideal Data Science Playground\|Kaggle vs Google Colab - Choosing Your Ideal Data Science Playground]]
 - 2025-01-24 - [[AVEVA PI System/CONNECT vs PI Integrator - Choosing the Right Tool for Your Industrial Data Needs\|CONNECT vs PI Integrator - Choosing the Right Tool for Your Industrial Data Needs]]
 - 2025-01-24 - [[AVEVA PI System/AVEVA PI System vs Cloud Historian - Why PI Excels in Industrial Environments\|AVEVA PI System vs Cloud Historian - Why PI Excels in Industrial Environments]]
-- 2025-01-24 - [[AVEVA PI System/PI AF 10 Commandments - Your Guide to Data Management Excellence\|PI AF 10 Commandments - Your Guide to Data Management Excellence]]
 
 { .block-language-dataview}
 
