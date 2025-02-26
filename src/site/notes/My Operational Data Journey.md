@@ -30,7 +30,7 @@ From Elicitator to AI Prompt Architec, via Ultracrepidarianist, I am just a norm
 - 2025-01-27 - [[Operational Data/Kaggle vs Google Colab - Choosing Your Ideal Data Science Playground\|Kaggle vs Google Colab - Choosing Your Ideal Data Science Playground]]
 - 2025-01-24 - [[AVEVA PI System/CONNECT vs PI Integrator - Choosing the Right Tool for Your Industrial Data Needs\|CONNECT vs PI Integrator - Choosing the Right Tool for Your Industrial Data Needs]]
 - 2025-01-24 - [[AVEVA PI System/AVEVA PI System vs Cloud Historian - Why PI Excels in Industrial Environments\|AVEVA PI System vs Cloud Historian - Why PI Excels in Industrial Environments]]
-- 2025-01-24 - [[AVEVA PI System/Deploying AVEVA PI System at Scale - A Comprehensive Guide\|Deploying AVEVA PI System at Scale - A Comprehensive Guide]]
+- 2025-01-24 - [[AVEVA PI System/PI AF 10 Commandments - Your Guide to Data Management Excellence\|PI AF 10 Commandments - Your Guide to Data Management Excellence]]
 
 { .block-language-dataview}
 
