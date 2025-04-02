@@ -21,7 +21,7 @@ From Elicitator to AI Prompt Architec, via Ultracrepidarianist, I am just a norm
 
 ---
 <u>**Last Articles :**</u>
-- 2025-04-02 - [[Operational Data/Comparing AVEVA PI System and Optimistik – Which Fits Your Operational Data Journey\|Comparing AVEVA PI System and Optimistik – Which Fits Your Operational Data Journey]]
+- 2025-04-02 - [[AVEVA PI System/Comparing AVEVA PI System and Optimistik – Which Fits Your Operational Data Journey\|Comparing AVEVA PI System and Optimistik – Which Fits Your Operational Data Journey]]
 - 2025-03-17 - [[Operational Data/Building a Robust Industrial Data Platform - 7 Essential Capabilities\|Building a Robust Industrial Data Platform - 7 Essential Capabilities]]
 - 2025-02-26 - [[AVEVA PI System/Unlock Maritime Efficiency and Sustainability with AVEVA PI System\|Unlock Maritime Efficiency and Sustainability with AVEVA PI System]]
 - 2025-02-14 - [[AVEVA PI System/Data Diode Architecture for AVEVA PI System\|Data Diode Architecture for AVEVA PI System]]
