@@ -30,6 +30,9 @@ You can freely use, share and adapt it as long as you attribute us and you distr
 
 ## The 7 Core Capabilities
 
+![](https://i.imgur.com/zI8C0TL.png)
+
+
 ## 1. Connectivity: Bridging the Data Source Gap
 
 The first step is connecting to your diverse data sources. This means more than just the latest sensors; it's about integrating legacy systems, modern devices, and everything in between.
